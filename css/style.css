@@ -1,0 +1,78 @@
+article {
+	margin-bottom: 40px;
+}
+
+
+.date-number {
+	width: 56px;
+	height: 46px;
+	background-color: blue;
+	font-size: 35px;
+	color: white;
+	padding: 8px 10px;
+	vertical-align: middle; 
+}
+
+.date-text {
+	font-size: 22px;
+	color: blue;
+	margin-top: 10px;
+	display: inline-block;
+	margin: 10px 0 17 0px;
+
+}
+
+.article-title {
+	margin-bottom: 17px;
+	font-family: "BPG Nino Mtavruli Bold",sans-serif;
+}
+
+.article-image {
+	vertical-align: top;
+	margin-right: 40px;
+}
+
+
+.text-container {
+	width: 929px;
+	display: inline-block;
+	vertical-align: text-top;
+}
+
+
+.article-text-1 {
+	margin-bottom: 22px;
+
+
+}
+
+section {
+	background-color: gray;
+	padding: 40px 0 63px;
+}
+
+.section-container {
+	width: 1170px;
+	margin: 0 auto;
+}
+
+.contact {
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 63px;
+}
+
+.map {
+	display: inline-blocks;
+	vertical-align: top;
+}
+
+.line {
+	height: 26px;
+	width: 1px;
+	background-color: blue;
+	margin: 0 36px;
+	display: inline-block;
+
+
+}
